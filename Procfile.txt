@@ -1,1 +1,1 @@
-web: python alexbot.py
+web: python alexbot.py $PORT
