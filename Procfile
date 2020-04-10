@@ -1,1 +1,1 @@
-web: python alexbot.py
+worker: python alexbot.py
